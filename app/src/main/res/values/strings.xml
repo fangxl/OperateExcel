@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OperateExcel</string>
+
+    <string name="allow_app_permission">请允许程序运行所需权限</string>
+</resources>
